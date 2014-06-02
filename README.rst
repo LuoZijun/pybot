@@ -18,3 +18,7 @@ XMPP BOT
 
 https://github.com/fritzy/SleekXMPP
 
+进展
+-------------------------------
+
+1.  查阅资料.
