@@ -1,4 +1,4 @@
-XMPP BOT
+Python BOT
 ===================
 
 :Author: Luo Zijun
