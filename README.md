@@ -1,4 +1,0 @@
-xmppbot
-=======
-
-Python XMPP BOT
